@@ -24,7 +24,7 @@ Build out the following functionality. Be sure to organize your code so that the
 - A user can see a `show` view with all the purchase details using the `purchase id`. This view should have additional styling (see below).
 - A user can `update` the amount of a purchase using the `purchase id`.
 - A user can `delete` a purchase using the `purchase id`.
-- A user can see the total amount of donations from the sum of all purchases.
+- A user can see the total amount of donations from the `sum` of all purchases.
 
 Here is an example of additional styling for the show view
 
