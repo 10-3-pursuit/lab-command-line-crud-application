@@ -30,12 +30,14 @@ Here is an example of additional styling for the show view
 
 ![Additional styling for the show view](./assets/show-view.png)
 
+## Stretch Goals
+
 Include Jest, and write a minimum of two tests. You could:
 
 - Confirm all the correct fields exist when creating a new item.
 - Make sure the correct datatype is being inserted into each field.
 
-With the following functionality, you would likely want to make a sample data set that is always the same (you can create a small array of objects (~2-3 items) that is hard-coded in your test file, or you can create a separate file and import it). You would not use the `fs` module to update any changes permanently. You can look for examples of using sample data with a previous lab you have completed.
+With the following functionality, you would likely want to make a sample data set, that is always the same (you can create a small array of objects (~2-3 items) that is hard-coded in your test file, or you can create a separate file and import it). You would not use the `fs` module to update any changes permanently. You can look for examples of using sample data with a previous lab you have completed.
 
 - Confirm that the function to create one item creates only one item and appends it to the test array.
 - Confirm that the delete function deletes the correct object in the test array.
